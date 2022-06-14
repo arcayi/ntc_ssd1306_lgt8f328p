@@ -1,0 +1,7 @@
+{
+    "sketch": "ntc_ssd1306_lgt8f328p.ino",
+    "port": "COM13",
+    "board": "LGT8fx Boards:avr:328",
+    "configuration": "arduino_isp=disable,clock_source=internal,clock=32MHz,variant=modelP_SSOP20",
+    "output": ".build"
+}
