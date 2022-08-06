@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino",
+            "compilerPath": "d:\\Program Files (x86)\\Arduino\\hardware\\tools\\avr\\bin\\avr-g++",
+            "compilerArgs": [
+                "-w",
+                "-std=gnu++11",
+                "-fpermissive",
+                "-fno-exceptions",
+                "-ffunction-sections",
+                "-fdata-sections",
+                "-fno-threadsafe-statics"
+            ],
+            "intelliSenseMode": "${default}",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/ywh/AppData/Local/Arduino15/packages/STMicroelectronics/hardware/**",
+                "C:/Users/ywh/AppData/Local/Arduino15/packages/LGT8fx Boards/hardware/**",
+                // "D:/Git_Repository/Arduino/libraries/**",
+                "d:/Git_Repository/Arduino/libraries/**",
+                "d:/program files (x86)/arduino/hardware/tools/avr/lib/gcc/avr/7.3.0/include",
+                "d:/program files (x86)/arduino/hardware/tools/avr/lib/gcc/avr/7.3.0/include-fixed",
+                "d:/program files (x86)/arduino/hardware/tools/avr/avr/include"
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11"
+        }
+    ],
+    "version": 4
+}
